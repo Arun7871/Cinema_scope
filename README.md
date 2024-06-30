@@ -6,7 +6,7 @@
 
 3. **Navigate to the folder cinema scope**:
    ```bash
-   cd Cinema Scope
+   cd Cinema_scope
    ```
    *(Ensure you have Node.js installed on your machine.)*
     
