@@ -1,6 +1,3 @@
-Here’s the corrected markdown:
-
-```markdown
 ## Installation Instructions
 
 1. **Extract the folder**:
@@ -14,7 +11,7 @@ Here’s the corrected markdown:
    cd Cinema-Scope
    ```
    *(Ensure you have Node.js installed on your machine.)*
-
+    
 4. **Install dependencies**:
    ```bash
    npm install
