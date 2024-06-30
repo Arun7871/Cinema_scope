@@ -1,8 +1,6 @@
 ## Installation Instructions
 
-1. **Extract the folder**:
-   - Unzip the downloaded project folder.
-
+1. **Clone this repository**:
 2. **Open in VS Code**:
    - Open the folder in Visual Studio Code.
 
