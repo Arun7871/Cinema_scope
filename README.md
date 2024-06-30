@@ -4,9 +4,9 @@
 2. **Open in VS Code**:
    - Open the folder in Visual Studio Code.
 
-3. **Navigate to the folder**:
+3. **Navigate to the folder cinema scope**:
    ```bash
-   cd Cinema-Scope
+   cd Cinema Scope
    ```
    *(Ensure you have Node.js installed on your machine.)*
     
